@@ -33,7 +33,7 @@
 	
 | | | | | |
 |---|---|---|---|---|
-| <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/1.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/3.png?raw=true" width="200" height="300" /> | <img src=https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/4.png?raw=true" width="200" height="300" /> |
+| <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/1.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/3.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61ccc711b0d15f98588a6c6bf12dec061c85e619/Trees/Drva_Zadaca_2/Sliki/4.png?raw=true" width="200" height="300" /> |
 
 | Input | Result |
 |-------|--------|
