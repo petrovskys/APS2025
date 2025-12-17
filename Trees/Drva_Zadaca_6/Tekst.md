@@ -28,9 +28,9 @@
 
 	Прикажано е изгледот на дрвото при секое од 7те прашања во влезот
 	
-| | | | | 
-|---|---|---|---|
-| <img src="https://github.com/petrovskys/APS2025/blob/02ad4bf1790ab4be340d500fcc54bbf8b97d821d/Trees/Drva_Zadaca_4/Sliki/1.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/02ad4bf1790ab4be340d500fcc54bbf8b97d821d/Trees/Drva_Zadaca_4/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/02ad4bf1790ab4be340d500fcc54bbf8b97d821d/Trees/Drva_Zadaca_4/Sliki/3.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/02ad4bf1790ab4be340d500fcc54bbf8b97d821d/Trees/Drva_Zadaca_4/Sliki/4.png?raw=true" width="200" height="300" /> |
+| | | |  
+|---|---|---|
+| <img src="https://github.com/petrovskys/APS2025/blob/61948c11a64db4eb894086385e28c580d8f0f413/Trees/Drva_Zadaca_6/Sliki/1.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61948c11a64db4eb894086385e28c580d8f0f413/Trees/Drva_Zadaca_6/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/61948c11a64db4eb894086385e28c580d8f0f413/Trees/Drva_Zadaca_6/Sliki/3.png?raw=true?raw=true" width="200" height="300" /> |
 
 | Input | Result |
 |-------|--------|
