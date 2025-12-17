@@ -14,25 +14,25 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Влез:		Излез:
+Влез:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Излез:<br>
 
-11 5		1
-root 1		2
-add 1 2		4
-add 2 3		4
-ask 1		7
-add 1 4
-add 2 5
-add 3 6
-ask 2
-add 3 7
-ask 1
-add 1 8
-add 4 9
-add 2 10
-add 4 11
-ask 2
-ask 1
+11 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>
+root 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<br>
+add 1 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
+add 2 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
+ask 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br>
+add 1 4<br>
+add 2 5<br>
+add 3 6<br>
+ask 2<br>
+add 3 7<br>
+ask 1<br>
+add 1 8<br>
+add 4 9<br>
+add 2 10<br>
+add 4 11<br>
+ask 2<br>
+ask 1<br>
 
 
 Објаснување: 
@@ -42,3 +42,6 @@ ask 1
 	прашање 3: ask 1: Во поддрвото на јазелот 1 има 4 листови.
 	прашање 4: ask 2: Во поддрвото на јазелот 2 има 4 листови
 	прашање 5: ask 1: Во поддрвото на јазелот 1 има 7 листови
+	
+<img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG?raw=true" width="200px" height="300px"><img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/2.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/3.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/4.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/5.png?raw=true" width="200px" height="300px">
+
