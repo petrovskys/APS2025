@@ -42,4 +42,5 @@ ask 1<br>
 	прашање 3: ask 1: Во поддрвото на јазелот 1 има 4 листови.
 	прашање 4: ask 2: Во поддрвото на јазелот 2 има 4 листови
 	прашање 5: ask 1: Во поддрвото на јазелот 1 има 7 листови
-![1](https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG)
+	
+<img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG" width="200px" height="300px">
