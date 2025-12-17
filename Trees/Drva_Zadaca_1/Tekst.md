@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Input | Output |
+| Input | Result |
 |-------|--------|
 | <div align="left">11 5<br>root 1<br>add 1 2<br>add 2 3<br>ask 1<br>add 1 4<br>add 2 5<br>add 3 6<br>ask 2<br>add 3 7<br>ask 1<br>add 1 8<br>add 4 9<br>add 2 10<br>add 4 11<br>ask 2<br>ask 1</div> | <div align="left">1<br>2<br>4<br>4<br>7</div> |
 
@@ -34,5 +34,55 @@
 |---|---|---|---|---|
 | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/3.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/4.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/5.png?raw=true" width="200" height="300" /> |
 
+| Input | Result |
+|-------|--------|
+| <pre>12 18
+root 1
+add 1 2
+add 2 3
+add 1 4
+ask 1
+ask 2
+ask 3
+ask 4
+add 2 5
+add 1 6
+add 4 7
+add 5 8
+add 8 9
+ask 1
+ask 2
+ask 3
+ask 4
+ask 5
+ask 6
+ask 7
+ask 8
+ask 9
+add 5 10
+add 4 11
+add 2 12
+ask 1
+ask 2
+ask 3
+ask 4
+ask 5</pre> | <pre>2
+1
+1
+1
+4
+2
+1
+1
+1
+1
+1
+1
+1
+7
+4
+1
+2
+2</pre> |
 
 
