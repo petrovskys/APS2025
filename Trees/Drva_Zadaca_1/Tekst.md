@@ -43,5 +43,9 @@ ask 1<br>
 	прашање 4: ask 2: Во поддрвото на јазелот 2 има 4 листови
 	прашање 5: ask 1: Во поддрвото на јазелот 1 има 7 листови
 	
-<img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG?raw=true" width="200px" height="300px"><img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/2.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/3.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/4.png?raw=true" width="200px" height="300px"> <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/5.png?raw=true" width="200px" height="300px">
+| | | | | |
+|---|---|---|---|---|
+| <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/1.PNG?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/2.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/3.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/4.png?raw=true" width="200" height="300" /> | <img src="https://github.com/petrovskys/APS2025/blob/92ee5ef90c83e378c7f40811ab0285910540c1ec/Trees/Drva_Zadaca_1/Sliki/5.png?raw=true" width="200" height="300" /> |
+
+
 
