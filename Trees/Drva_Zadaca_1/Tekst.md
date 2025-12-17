@@ -14,25 +14,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Влез:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Излез:<br>
-
-11 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>
-root 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<br>
-add 1 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
-add 2 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
-ask 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br>
-add 1 4<br>
-add 2 5<br>
-add 3 6<br>
-ask 2<br>
-add 3 7<br>
-ask 1<br>
-add 1 8<br>
-add 4 9<br>
-add 2 10<br>
-add 4 11<br>
-ask 2<br>
-ask 1<br>
+| Input | Output |
+|-------|--------|
+| 11 5<br>root 1<br>add 1 2<br>add 2 3<br>ask 1<br>add 1 4<br>add 2 5<br>add 3 6<br>ask 2<br>add 3 7<br>ask 1<br>add 1 8<br>add 4 9<br>add 2 10<br>add 4 11<br>ask 2<br>ask 1 | 1<br>2<br>4<br>7 |
 
 
 Објаснување: 
