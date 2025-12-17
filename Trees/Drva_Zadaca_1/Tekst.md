@@ -14,13 +14,13 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Влез:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Излез:<br>
+Влез:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Излез:<br>
 
-11 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>
-root 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<br>
-add 1 2&nbsp;&nbsp;&nbsp;&nbsp;4<br>
-add 2 3&nbsp;&nbsp;&nbsp;&nbsp;4<br>
-ask 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br>
+11 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br>
+root 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2<br>
+add 1 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
+add 2 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4<br>
+ask 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7<br>
 add 1 4<br>
 add 2 5<br>
 add 3 6<br>
