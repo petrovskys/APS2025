@@ -36,53 +36,7 @@
 
 | Input | Result |
 |-------|--------|
-| <pre>12 18
-root 1
-add 1 2
-add 2 3
-add 1 4
-ask 1
-ask 2
-ask 3
-ask 4
-add 2 5
-add 1 6
-add 4 7
-add 5 8
-add 8 9
-ask 1
-ask 2
-ask 3
-ask 4
-ask 5
-ask 6
-ask 7
-ask 8
-ask 9
-add 5 10
-add 4 11
-add 2 12
-ask 1
-ask 2
-ask 3
-ask 4
-ask 5</pre> | <pre>2
-1
-1
-1
-4
-2
-1
-1
-1
-1
-1
-1
-1
-7
-4
-1
-2
-2</pre> |
+| <div align="left">12 18<br>root 1<br>add 1 2<br>add 2 3<br>add 1 4<br>ask 1<br>ask 2<br>ask 3<br>ask 4<br>add 2 5<br>add 1 6<br>add 4 7<br>add 5 8<br>add 8 9<br>ask 1<br>ask 2<br>ask 3<br>ask 4<br>ask 5<br>ask 6<br>ask 7<br>ask 8<br>ask 9<br>add 5 10<br>add 4 11<br>add 2 12<br>ask 1<br>ask 2<br>ask 3<br>ask 4<br>ask 5</div> | <div align="left">2<br>1<br>1<br>1<br>4<br>2<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>7<br>4<br>1<br>2<br>2</div> |
+
 
 
