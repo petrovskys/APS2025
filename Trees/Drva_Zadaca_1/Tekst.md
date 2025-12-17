@@ -17,7 +17,7 @@
 Влез:			Излез:<br>
 
 11 5			1<br>
-root 1&nbsp;&nbsp;2<br>
+root 1&nbsp;&nbsp;&nbsp;&nbsp;2<br>
 add 1 2&nbsp;&nbsp;4<br>
 add 2 3&nbsp;&nbsp;4<br>
 ask 1&nbsp;&nbsp;7<br>
